@@ -1,0 +1,72 @@
+sentence,label,label_idx
+You are lying to me,negative_reaction,2
+YOUR KILLING EVERYONE,negative_reaction,2
+"If I get the vaccine, won't it give me Covid-19?",concern,4
+"No.  I don't trust the health experts, government, big pharma.  You've lost our trust and don't care about the long term effects.  No animal studies done.  It's criminal what you're doing.",negative_reaction,2
+what is the price of each dose?,query,5
+thanks i dont need more information,positive_reaction,3
+"Cope and seethe, jam the needles up your ass",negative_reaction,2
+and where can I take the vaccine,query,5
+is there a place where i can buy the vaccine,query,5
+side effect of vaccine,concern,4
+what happen if I have side effects?,concern,4
+"Well, I would like to know if they no longer have side effects",concern,4
+ok thanks,positive_reaction,3
+what side effects does it bring,concern,4
+How can the pfizer vaccine affect a person with blood clots?,concern,4
+You're not very smart...,negative_reaction,2
+hi there,greeting,0
+how many brands of vaccines are there?,query,5
+how much does a vaccine cost,query,5
+What are the common side effects,concern,4
+what are the side effects is the vaccine dangerous?,concern,4
+Jews are evil demons that deserve death,negative_reaction,2
+where can i get the covid vaccine?,query,5
+Is it true that we are guinea pigs?,concern,4
+FUCK YOU,negative_reaction,2
+sputnik v is safe?,concern,4
+I have got to go,farewell,1
+You never back up your statements with peer reviewed data,negative_reaction,2
+Why did I do that? ,negative_reaction,2
+Downvoting that dickfactor!,negative_reaction,2
+where I'm going to put it,query,5
+okay thanks for ur help,positive_reaction,3
+how many doses will I need,query,5
+"But that is a lie, 19 deaths have been caused by blood clots.",concern,4
+Does it have any side effects?,concern,4
+You are a big lying bot,negative_reaction,2
+how many people were vaccinated?,query,5
+What a waste of time and money...,negative_reaction,2
+Gay frog.,negative_reaction,2
+my wife is pregnant now... is it safe for her?,concern,4
+what vaccine is better?,query,5
+the vaccine would kill me?,concern,4
+"That was wrong, try again",negative_reaction,2
+That answer is incorrect,negative_reaction,2
+how many doses of the vaccine are needed?,query,5
+)))))))))))))))))))))))0,other,6
+how much does it worth ?,query,5
+how many vaccines they have?,query,5
+??? ? ??? ??,other,6
+let,other,6
+Sosa 40k? What the fuck.,negative_reaction,2
+Death,negative_reaction,2
+This is the problem with AI. Hope I didnt add too much to your machine learning algorithm,negative_reaction,2
+are there any side effects ?,concern,4
+how many doses should i have ?,query,5
+"Hi, what is the cost of the vaccine?",greeting,0
+|||adaministrator,other,6
+.,other,6
+"Finished now, good bye",farewell,1
+what is the recovery percentage?,query,5
+how much it cost?,query,5
+Good morning. I have a question: do these vaccines completely eradicate the virus from the individual?,greeting,0
+"hello, can you help me learn more about covid-19",greeting,0
+...... I'm not gay retard,negative_reaction,2
+Have you been well?,greeting,0
+how many vaccine are there?,query,5
+lakjsf0-53,other,6
+I disagree,negative_reaction,2
+"ok, my wife is pregnant - is it ok for her to take the vaccine as well?",concern,4
+Will it harm me in any way?,concern,4
+that's all for today,farewell,1
