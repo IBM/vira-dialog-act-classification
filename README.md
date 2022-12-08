@@ -66,7 +66,7 @@ However, for testing purposes it is possible to deploy on a personal computer.
 It is recommended, but not mandatory, to use a hardware with GPU. 
 
 To deploy the model on a remote server:
-1. Configure the platform used for containerized services to run the docker image `<hub-user>/<repo-name>:vira-intent-classifier`
+1. Configure the platform used for containerized services to run the docker image `<hub-user>/<repo-name>:vira-dialog-act-classifier`
 2. Verify that the service is running by opening a browser at the URL `https://<server-ip>/health` 
 
 To deploy the model on a personal computer:
